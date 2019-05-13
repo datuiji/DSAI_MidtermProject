@@ -1,4 +1,5 @@
 # DSAI_MidtermProject
+- [My XGBOOST MODEL](https://nbviewer.jupyter.org/github/datuiji/DSAI_MidtermProject/blob/master/DSAI_MidtermProject_Leader0.91040_v7.ipynb)
 ## Features of models
 ### V3
 - 最一開始改了助教提供的 [xgboost model](https://www.kaggle.com/dhimananubhav/feature-engineering-xgboost) 裡所提供的 feature ，並將裡面的 Feature 改了一下。
